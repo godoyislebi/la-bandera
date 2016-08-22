@@ -1,0 +1,14 @@
+.box
+{
+	margin-top: 10px;
+	margin-right: 10px;
+	display: inline;
+}
+.yellow
+{
+	background-color: yellow;
+}
+.pink
+{
+	background-color: pink;
+}
